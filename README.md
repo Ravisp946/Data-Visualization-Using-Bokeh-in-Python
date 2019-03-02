@@ -1,5 +1,5 @@
 # Data-Visualization-Using-Bokeh-in-Python
-Assignment of DataLit Course taught By Siraj Raval
+Assignment of DataLit Course taught By Siraj Raval.
 
 To run this on your system.
 Firstly , install Python3 and then install the Bokeh, Numpy and Pandas Library.
